@@ -7,7 +7,7 @@ python manage.py createsuperuser
 
 Migrate and save changes made to functions and databases with:
 
-python manage.py makemigration
+python manage.py makemigrations
 
 python manage.py migrate
 
